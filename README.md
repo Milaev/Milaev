@@ -15,7 +15,7 @@
 
 - 👦 Я ищу работу Frontend-разработчиком, Javascript программистом или FullStack-разработчиком.
 - 📝 Моё резюме [HH.ru](https://hh.ru/resume/e6e53026ff0c6d8ad50039ed1f4f6757455459)
-- 🌐 Все мои проекты доступны [здесь](https://github.com/Milaev)
+- 🌐 В этом профиле GitHub вы можете ознакомиться с моими работами
 - 👨‍💻 Мой учебный профиль [HTML Academy](https://htmlacademy.ru/profile/zesh8)
 - ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white) [Профиль](https://www.codewars.com/users/Zesh8)
 
