@@ -5,9 +5,13 @@
   <a href="https://t.me/zesh8">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+</p>
+<p align="center">
   <a href="mailto:spb.promo.milaev.r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+</p>
+<p align="center">
   <a href="mailto:r.milaev@yandex.ru">
     <img src="https://img.shields.io/badge/Yandex%20Mail-FF0000?style=flat&logo=yandex&logoColor=white" alt="Yandex Mail">
   </a>
