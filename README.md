@@ -17,7 +17,6 @@
 - 📝 Моё резюме [HH.ru](https://hh.ru/resume/e6e53026ff0c6d8ad50039ed1f4f6757455459)
 - 🌐 В этом профиле GitHub вы можете ознакомиться с моими работами
 - 👨‍💻 Мой учебный профиль [HTML Academy](https://htmlacademy.ru/profile/zesh8)
-- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white) [Профиль](https://www.codewars.com/users/Zesh8)
 
 <h2 align="center">Я использую технологии</h2>
 <p align="center">
